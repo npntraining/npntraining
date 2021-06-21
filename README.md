@@ -1,5 +1,9 @@
 ### Hi there 👋
+Hi I am having 12+ years of experience in IT with vast experience in executing complex projects using Java, Micro Services , Big Data and Cloud Platforms.
 
+I found NPN Training Pvt Ltd a India based startup to provide high quality training for IT professionals. I have trained more than 3000+ IT professionals and helped them to succeed in their career in different technologies.
+
+I have spent 12 years at Siemens, Yahoo, Amazon and Cisco, developing and managing technology.
 <!--
 **npntraining/npntraining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
