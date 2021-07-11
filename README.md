@@ -1,6 +1,10 @@
-### Hi there 👋, I am Naveen!
+### Welcome 👋
+Hi there 👋, I am Naveen!
 
+### Work
 Hi I am having 12+ years of experience in IT with vast experience in executing complex projects using Java, Micro Services , Big Data and Cloud Platforms.
+
+### Currently...
 
 I found NPN Training Pvt Ltd a India based startup to provide high quality training for IT professionals. I have trained more than 3000+ IT professionals and helped them to succeed in their career in different technologies.
 
